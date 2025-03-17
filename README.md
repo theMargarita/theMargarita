@@ -1,4 +1,5 @@
 Hello there, I am Margarita, 
+
 System developer.NET student in Sweden
 
 
@@ -17,6 +18,6 @@ System developer.NET student in Sweden
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=theMargarita&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=theMargarita&icon=10&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
