@@ -1,6 +1,5 @@
-##Hello, I am Margarita 
-
-System developer.NET student in Sweden<br/>
+Hello there, I am Margarita, 
+System developer.NET student in Sweden
 
 
 
