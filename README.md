@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there, <br>I am a system development .NET in Sweden.<br>
+Hello there, <br>I am a system development .NET student in Sweden.<br>
 
 
 ## 🌐 Socials:
