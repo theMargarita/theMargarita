@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hello there, <br>I am a system development .NET student in Sweden.<br>
-<br>I'm exploring the world of tech, come and join me<br>
+Hello there, <br>I'm a system development.NET student in Sweden.<br>
+<br>Exploring the world of tech, come and join<br>
 
 
 
